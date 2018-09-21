@@ -1,5 +1,5 @@
 ## Recursive Fibonacci Sequence
-> Dale, Joyce, Weems (4th) p213 #33  
+  *Dale, Joyce, Weems (4th) p213 #33*  
 
 The Fibonacci sequence is the series of integers  
 
