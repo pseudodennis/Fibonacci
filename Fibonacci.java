@@ -2,7 +2,7 @@ public class Fibonacci
 {
 	public static void main(String[] args)
 	{
-		int n = -20;																	// the nth number of the fibonacci sequence for which to calculate
+		int n = 5;																	// the nth number of the fibonacci sequence for which to calculate
 
 		try
 		{
