@@ -7,11 +7,10 @@ The Fibonacci sequence is the series of integers
 
 See the pattern? Each element in the series is the sum of the preceding two elements. 
 Here is a recursive formula for calculating the nth number of the sequence:
-
-|--------|-----------------|-------------|  
-| Fib(N) = | N, | if N = 0 or 1 |
-|--------|-----------------|-------------|  
-| Fib(N) = | Fib(N-2) + Fib(N-1) | if N > 1 |
+ 
+| Fib(N) = | N,                  | if N = 0 or 1 |
+|----------|---------------------|---------------|  
+| Fib(N) = | Fib(N-2) + Fib(N-1) | if N > 1      |
 
 1.  Write a recursive method `fibonacci` that returns the nth Fibonacci number 
 when passed the argument `n`.  
