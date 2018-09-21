@@ -8,7 +8,7 @@ The Fibonacci sequence is the series of integers
 See the pattern? Each element in the series is the sum of the preceding two elements. 
 Here is a recursive formula for calculating the nth number of the sequence:
  
-| component | return value | condition | 
+|          | return value        | condition | 
 |----------|---------------------|---------------|  
 | Fib(N) = | N,                  | if N = 0 or 1 |
 | Fib(N) = | Fib(N-2) + Fib(N-1) | if N > 1      |
